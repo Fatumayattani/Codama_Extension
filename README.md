@@ -21,3 +21,14 @@ Codama requests the following permissions:
 Codama currently supports the following platforms:
 - [GitHub](https://github.com): Assists with code reviews, pull requests, and general coding tasks.
 - [Stack Overflow](https://stackoverflow.com): Provides explanations and debugging insights to help answer questions and solve issues.
+
+## Future Enhancements
+
+Planned features for upcoming releases include:
+- **Support for Additional Coding Platforms**: Expanding Codama's capabilities to other sites where developers collaborate and share knowledge.
+- **Enhanced AI Models**: Implementing advanced AI models for more precise code generation and explanations.
+- **User Customizations**: Allowing users to customize Codama's appearance, language style, and AI behavior.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
