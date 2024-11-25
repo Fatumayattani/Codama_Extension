@@ -13,7 +13,7 @@
       "https://stackoverflow.com/*"
     ],
     "action": {
-      "default_popup": "index.html",
+      "default_popup": "index.html"
       
     },
     
