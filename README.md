@@ -15,3 +15,9 @@ Codama requests the following permissions:
 - **Active Tab**: To interact with the active tab, enabling Codama to provide relevant insights on GitHub and Stack Overflow.
 - **Storage**: To save user preferences and settings locally.
 - **Scripting**: To inject and execute scripts on supported pages.
+
+## Supported Sites
+
+Codama currently supports the following platforms:
+- [GitHub](https://github.com): Assists with code reviews, pull requests, and general coding tasks.
+- [Stack Overflow](https://stackoverflow.com): Provides explanations and debugging insights to help answer questions and solve issues.
